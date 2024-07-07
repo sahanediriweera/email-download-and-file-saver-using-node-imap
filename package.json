@@ -1,0 +1,23 @@
+{
+  "name": "email-download-and-file-saver-using-node-imap",
+  "version": "1.0.0",
+  "description": "This is an application to build to download and save email data",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahanediriweera/email-download-and-file-saver-using-node-imap.git"
+  },
+  "author": "Sahan Ediriweera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sahanediriweera/email-download-and-file-saver-using-node-imap/issues"
+  },
+  "homepage": "https://github.com/sahanediriweera/email-download-and-file-saver-using-node-imap#readme",
+  "dependencies": {
+    "base64-stream": "^1.0.0",
+    "node-imap": "^0.9.6"
+  }
+}
