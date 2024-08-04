@@ -16,7 +16,7 @@ Before running the application, ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/email-reader.git
+   git clone https://github.com/sahanediriweera/email-download-and-file-saver-using-node-imap.git
    cd email-reader
    ```
 
